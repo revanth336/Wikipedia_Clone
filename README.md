@@ -1,1 +1,3 @@
-# [#preview 👈] (https://wikipediadup.netlify.app/)
+
+# [Preview 👈](https://wikipediadup.netlify.app/)
+
