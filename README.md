@@ -1,3 +1,3 @@
 
-# [Preview 👈](https://wikipediadup.netlify.app/)
+# [Preview 👈](https://wikipedia-myclone.netlify.app/)
 
